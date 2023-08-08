@@ -6,7 +6,7 @@ package com.example.demo.inter;
 
 import com.example.demo.user.oii;
 	@Repository
-	public interface Repo  extends JpaRepository <oii,Integer>{
+	public interface Repo extends JpaRepository<oii,Integer>{
 
 	}
 
